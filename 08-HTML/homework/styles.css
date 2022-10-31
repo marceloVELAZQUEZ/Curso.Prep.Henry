@@ -1,0 +1,22 @@
+<style>
+h1{
+    color:darkred;
+}
+img{
+    width: 400px;
+}
+#thirDiv{
+    height: 600px;
+    width: 500px;
+    background-color: lightsalmon;
+    padding: 50px;
+    border:16px solid orangered;
+
+
+
+}
+#spanid{
+    font-size: 18px;
+    margin: 50px;
+    background-color: lightskyblue;
+}
